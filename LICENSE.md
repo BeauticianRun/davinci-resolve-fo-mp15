@@ -1,4 +1,4 @@
-# 
+# ultimate DaVinci Resolve for macOS Plugin | video-stabilization + lower-thirds offers the most advanced DaVinci Resolve for macOS plugin, with video-stabilization and
 
 
 
